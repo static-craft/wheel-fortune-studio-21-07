@@ -35,7 +35,7 @@ export function MessengerLinks() {
       >
         <img
           className="prize-card__messenger-img"
-          src="/max-icon.png"
+          src={`${import.meta.env.BASE_URL}max-icon.png`}
           width={48}
           height={48}
           alt=""
