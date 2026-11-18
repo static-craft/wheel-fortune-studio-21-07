@@ -60,7 +60,7 @@ export const SALON_NAME = 'STUDIO 21 | 07';
 export const MASTER_TELEGRAM = 'diana_kilmamatova';
 
 /** Онлайн-запись DIKIDI */
-export const BOOKING_URL = 'https://dikidi.ru/diana_kilmamatova';
+export const BOOKING_URL = 'https://dikidi.ru/1926460';
 
 /**
  * Ссылка на профиль мастера в MAX (https://max.ru/u/...).
