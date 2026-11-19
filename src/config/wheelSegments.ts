@@ -29,7 +29,7 @@ export const WHEEL_SEGMENTS: WheelSegment[] = [
     label: 'Депиляция',
     type: 'bonus',
     value: 'Депиляция одной зоны',
-    description: 'Идеальная форма бровей — наш комплимент. Приходите на коррекцию в подарок.',
+    description: 'Депиляция одной зоны — наш комплимент.',
     color: '#6b564b',
     weight: 3,
   },
