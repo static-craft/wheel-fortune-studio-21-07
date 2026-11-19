@@ -228,7 +228,7 @@ body {
 }
 
 .prize-card__value {
-  font-size: 2.5rem;
+  font-size: 1.5rem;
   font-weight: 800;
   color: var(--accent-dark);
   line-height: 1.2;
