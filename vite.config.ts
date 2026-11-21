@@ -6,7 +6,7 @@ export default defineConfig(({ mode }) => {
   // Если запускаем локально, используем имя репо как fallback.
   const repoName = process.env.GITHUB_REPOSITORY 
     ? process.env.GITHUB_REPOSITORY.split('/')[1] 
-    : 'wheel-fortune-studio-21-07';
+    : 'wheel-fortune';
 
   return {
     // ВАЖНО: добавляет префикс ко всем путям ассетов (JS, CSS, картинки) при сборке
